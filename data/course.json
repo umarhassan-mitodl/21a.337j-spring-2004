@@ -1,0 +1,57 @@
+{
+  "term": "Spring",
+  "year": "2004",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Anthropology",
+      "Cultural Anthropology"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Ethnography"
+    ],
+    [
+      "Fine Arts",
+      "Visual Arts",
+      "Film and Video"
+    ],
+    [
+      "Fine Arts",
+      "Media Studies"
+    ]
+  ],
+  "legacy_uid": "9a73beab-e6e0-c2ca-c52c-b10a5c143204",
+  "instructors": {
+    "content": [
+      "f6f1005e-3478-bdfa-e890-76bc32ef64ae"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "ce1ce3e4-d676-07b8-3bc1-fc7d611f0a8f",
+    "website": "21a-337j-documenting-culture-spring-2004"
+  },
+  "course_title": "Documenting Culture",
+  "course_description": "How\u00a0\u2014 and why\u00a0\u2014 do people seek to capture everyday life on film? What can we learn from such films? This course challenges distinctions commonly made between documentary and ethnographic films to consider how human cultural life is portrayed in both. It considers the interests, which motivate such filmmakers ranging from curiosity about \"exotic\" people to a concern with capturing \"real life\" to a desire for advocacy. Students will view documentaries about people both in the U.S. and abroad and will consider such issues as the relationship between film images and \"reality,\" the tensions between art and observation, and the ethical relationship between filmmakers and those they film.\n",
+  "department_numbers": [
+    "21A"
+  ],
+  "extra_course_numbers": "CMS.917J",
+  "primary_course_number": "21A.337J",
+  "course_image_thumbnail": {
+    "content": "b4d397f9-46e4-92d0-e5a5-925f9106a2eb",
+    "website": "21a-337j-documenting-culture-spring-2004"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "6838291e-0791-4d8a-8517-113c00c36b3f",
+  "site_short_id": "21a.337j-spring-2004",
+  "site_url_path": "courses/21a-337j-documenting-culture-spring-2004",
+  "title": "Course Metadata"
+}
